@@ -13,6 +13,9 @@ namespace ConsoleApp
             Console.WriteLine("Hello");
             Console.ReadLine();
             Console.WriteLine("Hello again");
+            Console.WriteLine("New line education");
+            //commetnts
+            //new
 
         }
     }
